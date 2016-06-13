@@ -1,7 +1,7 @@
 {
-  "name": "babel-tape-runner",
-  "version": "2.0.1",
-  "description": "Babel + Tape for running your ES Next tests",
+  "name": "babel-tape-no-css",
+  "version": "1.0.0",
+  "description": "Babel + Tape for running your ES Next tests but ignores CSS.",
   "bin": "./bin/babel-tape-runner",
   "repository": {
     "type": "git",
